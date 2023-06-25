@@ -1,29 +1,27 @@
 # Teoria dos Jogos Nash
-  Na abordagem tradicional (tipo A), o desenvolvimento ocorre em fases sequenciais. É como um processo em que cada fase é concluída antes de passar para a próxima. Isso é representado pelo modelo PPP (Plan, Produce, and Provide) usado pela NASA, por exemplo. Cada fase é executada uma após a outra, sem sobreposição entre elas.
+  Na teoria dos jogos, o conceito de "jogos de Nash" refere-se a um equilíbrio estratégico em que nenhum jogador tem incentivo para mudar sua estratégia individualmente, dada a estratégia dos outros jogadores. Embora a teoria dos jogos seja amplamente aplicável em diversos campos, incluindo a tecnologia da informação (T.I.), é importante destacar que não há jogos de Nash específicos para a T.I. em si, mas sim a aplicação da teoria dos jogos em problemas e situações relacionadas à T.I.
 
-Por outro lado, a abordagem de desenvolvimento em formato de "rúgbi" tem duas variações: tipo B e tipo C. No tipo B, ocorre sobreposição apenas na fronteira entre fases adjacentes. Isso significa que algumas atividades de uma fase começam antes que a fase anterior esteja completamente concluída. A sobreposição é limitada a áreas específicas de transição entre as fases.
+A teoria dos jogos pode ser aplicada em diversos contextos da T.I., como segurança cibernética, redes de computadores, tomada de decisões em ambientes complexos, otimização de recursos e leilões eletrônicos, entre outros. Alguns exemplos práticos de aplicação da teoria dos jogos na T.I. incluem:
 
-No tipo C, a sobreposição se estende por várias fases. Isso significa que as atividades de uma fase podem começar antes mesmo que as fases anteriores estejam completamente concluídas. A sobreposição ocorre por um período mais longo e abrange um conjunto maior de fases.
+Segurança Cibernética: Na defesa contra ataques cibernéticos, as empresas de segurança e os invasores estão constantemente envolvidos em um jogo estratégico. A aplicação da teoria dos jogos pode ajudar a entender as estratégias dos invasores e a desenvolver medidas de defesa eficazes.
 
-Os autores observaram exemplos dessas sobreposições na prática. No tipo B, eles observaram uma sobreposição na empresa Fuji-Xerox, onde as atividades de uma fase começavam antes que a fase anterior estivesse completamente concluída, mas a sobreposição era limitada a áreas específicas de transição. No tipo C, eles observaram uma sobreposição nas empresas Honda e Canon, onde as atividades de uma fase começavam antes que as fases anteriores estivessem completamente concluídas e essa sobreposição se estendia por várias fases.
+Gerenciamento de Redes de Computadores: Ao otimizar a alocação de recursos em uma rede, a teoria dos jogos pode ser usada para modelar o comportamento dos usuários, o tráfego de dados e a competição pelos recursos, a fim de melhorar a eficiência da rede.
 
-Essa abordagem de sobreposição de fases no desenvolvimento de produtos em formato de "rúgbi" é proposta por Nonaka e Takeuchi como uma alternativa mais flexível e ágil em comparação com a abordagem tradicional linear. Ela permite maior adaptabilidade e aprendizado contínuo durante o processo de desenvolvimento de produtos, favorecendo a inovação e a capacidade de resposta às mudanças do mercado.
+Negociações em Leilões Eletrônicos: A teoria dos jogos pode ser aplicada em leilões eletrônicos, onde os participantes estão envolvidos em uma competição estratégica para obter o melhor resultado. Isso pode ajudar a entender as estratégias de lances e a tomar decisões mais informadas durante o processo de leilão.
+
+Decisões de Investimento em Tecnologia: Em cenários de investimento em tecnologia, a teoria dos jogos pode auxiliar na análise de riscos, nas decisões de investimento estratégico e na previsão de ações de concorrentes, contribuindo para uma tomada de decisão mais informada.
 
 ## Projeto
-![Imagem](https://hbr.org/resources/images/article_assets/hbr/8601/86116_A.gif)
+![Imagem](https://m.media-amazon.com/images/I/41uEM5NlxbL._SX312_BO1,204,203,200_.jpg)
 
 ## Sobre o projeto
-
-Lean Enterprise Institute: [Lean](https://www.lean.org/)
-Lean Enterprise Academy: [Leanuk](https://www.leanuk.org/)
-Planning Poker:
-
 [Agile Alliancehttps](//www.agilealliance.org/glossary/planning-poker/)
 [Mountain Goat Software](https://www.mountaingoatsoftware.com/agile/planning-poker)
 [Teoria dos Jogos (Nash para TI)](https://plato.stanford.edu/entries/game-theory/)
 [Teoria do Caos (TI)](https://www.chaos-university.com/)
 [Chaos Theory in Management](https://www.managementstudyguide.com/chaos-theory-in-management.htm)
 [Nonaka e Takeuchi - The New Product Development Game](https://hbr.org/1986/01/the-new-new-product-development-game)
+[Planning Poker](https://www.agilealliance.org/glossary/planning-poker/)
 
 # Autor
 Thiago Reis Lima
